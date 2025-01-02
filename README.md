@@ -1,3 +1,5 @@
+![Loan Prediction Model](imajes/image_practice-problem-loan-prediction.png)
+
 # Completion Certificate: BTK Academy Course
 
 ## Course Overview
