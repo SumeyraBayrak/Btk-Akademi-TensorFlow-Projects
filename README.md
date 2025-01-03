@@ -37,8 +37,8 @@
    - Completion Status: ✅ (8/8)
 
 8. **TensorFlow**  
-   - Duration: Ongoing
-   - Completion Status: In Progress
+   - Duration: 3 hours 58 minutes 17 seconds
+   - Completion Status: ✅ (24/24)
 
 ## Key Learning Outcomes
 
@@ -65,9 +65,8 @@ I extend my gratitude to BTK Academy for offering such an in-depth and well-stru
 
 ### Contact Information
 Feel free to reach out for collaboration, queries, or networking:
-- **Email:** [example@example.com](mailto:example@example.com)
-- **LinkedIn:** [My Profile](https://linkedin.com/in/your-profile)
-
+- **Email:** [bayraksumeyra8@gmail.com](mailto:bayraksumeyra8@gmail.com)
+- **LinkedIn:** [My Profile](https://www.linkedin.com/in/sumeyra-bayrak-0b7720259/)
 ---
 
 **Note:** The TensorFlow module will be completed at a later stage to further enrich my skill set.
