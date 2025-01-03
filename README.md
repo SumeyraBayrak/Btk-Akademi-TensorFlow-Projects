@@ -65,8 +65,9 @@ I extend my gratitude to BTK Academy for offering such an in-depth and well-stru
 
 ### Contact Information
 Feel free to reach out for collaboration, queries, or networking:
-- **Email:** [bayraksumeyra8@gmail.com](mailto:bayraksumeyra8@gmail.com)
-- **LinkedIn:** [My Profile](https://www.linkedin.com/in/sumeyra-bayrak-0b7720259/)
+- **Email:** ✉️ [Get in Touch](mailto:bayraksumeyra8@gmail.com)
+- **LinkedIn:** 🔗 [Visit My LinkedIn Profile](https://www.linkedin.com/in/sumeyra-bayrak-0b7720259/)
+
 ---
 
 **Note:** The TensorFlow module will be completed at a later stage to further enrich my skill set.
